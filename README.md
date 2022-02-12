@@ -5,6 +5,6 @@ Aplicación que simula una tienda online con varios clientes simultáneos.
 
 Realizadas por:
 
-Daniel Bolaños Martínez
+- Daniel Bolaños Martínez
 
-José María Borrás Serrano
+- José María Borrás Serrano
