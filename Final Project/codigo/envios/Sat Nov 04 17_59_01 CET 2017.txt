@@ -1,0 +1,7 @@
+Usuario: alumno
+Lista de productos encargados: 
+1 Play Stution 4
+Lista de productos encargados: 
+2 Impresora Intelo
+Direccion: Calle Sevilla
+Tarjeta: 1234567876543234

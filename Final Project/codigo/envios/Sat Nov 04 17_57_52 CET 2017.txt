@@ -1,0 +1,5 @@
+Usuario: prueba
+Lista de productos encargados: 
+5 Impresora Intelo
+Direccion: Calle Periodista Daniel Saucedo Aranda
+Tarjeta: 1234543234565432
