@@ -1,13 +1,9 @@
-# Seam-Carving Algorithm
+# Online Shop Application
 
-Implementation of the Seam-Carving algorithm to resize images while preserving the most relevant content. The algorithm is based on eliminating the seams with the smallest colour difference between neighbouring pixels. Implementation in Python using the [OpenCV](https://docs.opencv.org/4.x/index.html) library and testing on a set of images contained in the project.
+Development of a software application for an online shop on a client/server architecture. The TCP protocol will be used to simulate shopping in the shop. The application has been developed in Java.
 
 Work done by:
 
 - Daniel Bolaños Martínez
 
 - José María Borrás Serrano
-
-## Bibliography
-
-- S. Avidan & A. Shamir (2007). Seam Carving for Content-Aware Image Resizing. ACM Transactions on Graphics (ACM T GRAPHIC).
