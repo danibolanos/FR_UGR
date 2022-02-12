@@ -1,7 +1,0 @@
-Usuario: nuevo
-Lista de productos encargados: 
-23 Placa Base Axus
-Lista de productos encargados: 
-10 Altavoces Modelo Clásico
-Direccion: Calle Margarita
-Tarjeta: 1234343234566543
